@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Siddhesh Thipse
-- 👀 My major interest lies in Full Stack Web Developement and Microservices Architecture
 - 📫 You can reach me on my personal Email ID siddheshthipse@gmail.com or on Linkedin at https://www.linkedin.com/in/siddhesh-thipse-396b05157/
 
 <!---
